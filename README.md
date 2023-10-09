@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installed Dependencies
+1. Axios: For fetching the data from API. Install "Axios" using the following command
+ ```bash
+npm install axios
+``` 
+2. Bootstrap: Install "Bootstrap" using the following command
+```bash
+npm install bootstrap@5.3.2
+```
+## API
+https://openweathermap.org/api
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -45,26 +57,21 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Usage
+To use the web application, follow these steps:
+1. Enter the name of the city in the search bar which is displayed in homepage then it shows the weather conditions of the corresponding city, including temperature, weather description, humidity, wind speed, and an icon representing the weather.
+   
+2. You can click on the footer of the card to switch between Celsius and Fahrenheit for temperature display.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contact Information
+If you have any questions or suggestions, please feel free to contact:
 
-### Analyzing the Bundle Size
+Name: Dasti Jaswanth Reddy
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Email: jaswanthreddydasti@gmail.com
 
-### Making a Progressive Web App
+Linkedin: [linkedin.com/in/dastijr](https://www.linkedin.com/in/dastijr/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+GitHub: [github.com/dastijaswanthreddy](https://github.com/dastijaswanthreddy)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for using the Application! We hope you find it useful. Happy Coding!
